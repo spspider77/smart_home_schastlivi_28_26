@@ -1,0 +1,19 @@
+﻿ table.main {}
+ tr.row {}
+ td.cell {}
+ div.block {}
+ div.paragraph {}
+ .font0 { font:9pt Calibri, sans-serif; }
+ .font1 { font:14pt Calibri, sans-serif; }
+ .font2 { font:16pt Calibri, sans-serif; }
+ .font3 { font:28pt CordiaUPC, sans-serif; }
+ .font4 { font:4pt MingLiU, monospace; }
+ .font5 { font:7pt MingLiU, monospace; }
+ .font6 { font:8pt MingLiU, monospace; }
+ .font7 { font:10pt MingLiU, monospace; }
+ .font8 { font:11pt MingLiU, monospace; }
+ .font9 { font:13pt MingLiU, monospace; }
+ .font10 { font:15pt MingLiU, monospace; }
+ .font11 { font:17pt MingLiU, monospace; }
+ .font12 { font:24pt MingLiU, monospace; }
+ .font13 { font:11pt Trebuchet MS, sans-serif; }
